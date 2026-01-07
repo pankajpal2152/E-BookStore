@@ -19,7 +19,7 @@ import BP12 from "../assets/BP12.png";
 import BP13 from "../assets/BP13.png";
 import BP14 from "../assets/BP14.png";
 import BP15 from "../assets/BP15.png";
-import BP16 from "../assets/BP16.png";
+import BP16 from "../assets/BP1.png";
 
 const Books = () => {
   const { cart, dispatch } = useCart();
