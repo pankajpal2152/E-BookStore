@@ -276,7 +276,7 @@ const Books = () => {
               >
                 {categories.map((category) => (
                   <option value={category} key={category}>
-                    {category === "all" ? "All Games" : category}
+                    {category === "all" ? "All Genres" : category}
                   </option>
                 ))}
               </select>

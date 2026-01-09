@@ -84,7 +84,7 @@ const Login = () => {
                 </Link>
 
                 {/* ======================================================
-                      SHOW SIGNED-IN UI IF LOGGED IN
+                        SHOW SIGNED-IN UI IF LOGGED IN
                 ====================================================== */}
                 {isLoggedIn ? (
                     <div className={loginStyles.signedInContainer}>
@@ -114,7 +114,7 @@ const Login = () => {
                 ) : (
                     <>
                         {/* ======================================================
-                              LOGIN FORM WHEN NOT LOGGED IN
+                                LOGIN FORM WHEN NOT LOGGED IN
                         ====================================================== */}
                         <div className="text-center mb-8">
                             <div className={loginStyles.iconCircle}>
