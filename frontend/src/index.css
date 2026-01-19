@@ -5,6 +5,7 @@
 }
 
 .scrollbar-hide {
-    -ms-overflow-style: none;  /* IE and Edge */
+    -ms-overflow-style: none;
+    /* IE and Edge */
     /* scrollbar-width removed due to compatibility issues */
 }
